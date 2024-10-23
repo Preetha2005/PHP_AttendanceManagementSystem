@@ -1,0 +1,34 @@
+.table-container {
+    margin-top: 50px;
+}
+.table {
+    background-color: white; /* White background for the table */
+    border-radius: 10px; /* Rounded corners */
+    overflow: hidden; /* Ensure rounded corners apply to the whole table */
+}
+thead {
+    background-color: #343a40; /* Dark background for the table header */
+    color: white;
+    text-align: center;
+}
+th, td {
+    text-align: center; /* Center-align text in table cells */
+    vertical-align: middle; /* Align text in the middle of the cell */
+}
+.btn-primary {
+    margin-left: 10px; /* Add some space between the select and button */
+}
+.form-control {
+    display: inline-block;
+    width: auto;
+}
+.navbar {
+    min-height: 100px ;
+    height: 100px ;
+    max-height: 100px;
+  }
+  .navbar-custom {
+    background-color: #b7410e; /* Rust brown color */
+    color: white;
+    padding: 10px 0;
+}

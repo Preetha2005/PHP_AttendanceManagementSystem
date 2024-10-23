@@ -1,0 +1,22 @@
+body {
+    background-color: white; /* Light background color */
+}
+.form-container {
+    background-color: white; /* White background for the container */
+    padding: 30px;
+    border-radius: 10px;
+    max-width: 500px;
+    margin: auto;
+    margin-top: 100px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
+}
+.navbar {
+    min-height: 100px ;
+    height: 100px ;
+    max-height: 100px;
+  }
+  .navbar-custom {
+    background-color: #b7410e; /* Rust brown color */
+    color: white;
+    padding: 10px 0;
+}

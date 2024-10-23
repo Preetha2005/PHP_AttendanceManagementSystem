@@ -1,0 +1,23 @@
+
+        body {
+            background-color: white; 
+        }
+        .navbar-custom {
+            background-color: #b7410e; /* Rust brown color */
+            color: white;
+            padding: 10px 0;
+        }
+        .form-container {
+            background-color: white; /* White background for the form */
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 400px;
+            margin: auto;
+            margin-top: 50px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adding shadow for better appearance */
+        }
+        .navbar {
+            min-height: 100px ;
+            height: 100px ;
+            max-height: 100px;
+          }
